@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Algorithm">
+      <UniqueIdentifier>{34485d46-9fdc-411c-bd10-687e0af05566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AlgorithmTermination">
+      <UniqueIdentifier>{9eb88eb3-33ae-4c1f-b4f0-7876bc1a5eb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Algorithm">
+      <UniqueIdentifier>{5c7921fa-cdd6-44d8-8b2f-b08aa0c44f9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AlgorithmTermination">
+      <UniqueIdentifier>{d6a40f03-3143-4f66-a5fc-3119dabe2e72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\Algorithm.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm\AlgorithmState.h">
+      <Filter>Header Files\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="AlgorithmTermination\AlgorithmTermination.h">
+      <Filter>Header Files\AlgorithmTermination</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\AndTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\FitnessStagnationTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\FitnessThresholdTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\OrTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\TimeLimitTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm\Algorithm.cpp">
+      <Filter>Source Files\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmTermination\IterationNumberTermination.cpp">
+      <Filter>Source Files\AlgorithmTermination</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

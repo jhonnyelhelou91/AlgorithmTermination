@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT40M49.9712921S" SolutionTotalViewTime="PT57M16.9285731S" SolutionTotalDebugTime="PT1M46.9863902S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT10M18.1135334S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-27T01:12:37.2139565+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT4M9.8183288S" EditActiveTime="PT5M45.1556728S">
+      <ModifiedDate>2019-02-16T17:16:03.4315201+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Algorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:12.6254356+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.9376984S" EditActiveTime="PT35.8110455S">
+      <ModifiedDate>2019-02-16T18:30:07.5575926+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\Algorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T18:02:55.3842332+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M18.6882511S" EditActiveTime="PT5M23.0419741S">
+      <ModifiedDate>2019-02-16T17:15:00.1874739+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Algorithm.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:58:05.7919443+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M5.2526206S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\Algorithm.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:25:08.2976025+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT26.1773592S" EditActiveTime="PT31.8325177S">
+      <ModifiedDate>2019-02-16T17:15:45.1755293+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\AlgorithmState.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:27.2191145+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.7893329S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\AlgorithmTermination.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:15.7783763+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT57.9670404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\AndTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:18.3264117+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.4664984S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\AndTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:27:20.4649481+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT21.3797882S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:04:38.3181781+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.7922054S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Configuration.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:35.922813+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.0746593S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Configuration.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:45.7159823+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M23.9865337S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\CourseSessionTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\AutomaticScheduling.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:41.4070634+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M43.6966611S" EditActiveTime="PT28.2653127S">
+      <ModifiedDate>2019-02-16T17:23:00.772148+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:22:27.4867913+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M46.0889421S" EditActiveTime="PT6M10.248333S">
+      <ModifiedDate>2019-02-17T16:44:35.9857293+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:29:46.6682852+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M33.3997996S" EditActiveTime="PT21M20.049372S">
+      <ModifiedDate>2019-02-16T18:33:47.2177111+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\CustomAlgorithmTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:38:52.7661906+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M46.9863902S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-16T18:18:39.3275879+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.4675482S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\FitnessStagnationTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:22.8365756+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.455216S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessStagnationTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessStagnationTermination.cpp</ProjectName>
+      <CreatedDate>2019-02-16T18:06:29.0848391+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.9557523S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessThresholdTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T18:23:02.204504+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT45.4427795S" EditActiveTime="PT35.5670643S">
+      <ModifiedDate>2019-02-16T18:02:06.5611643+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\IterationNumberTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:26:20.7583035+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.6646847S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\jsoncpp.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:10.3885178+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.3714723S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\OrTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:32:36.5453484+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6052029S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\stdafx.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:29.8464814+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.031967S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\stdafx.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-17T16:47:00.071008+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.8368296S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\stdafx.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:32.4527058+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.3045063S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\stdafx.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:26:48.1554528+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8396344S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\targetver.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:04:37.5950765+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28.5769737S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\TeacherSessionTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\AutomaticScheduling.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:39:03.889073+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.860287S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\TimeLimitTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:32:36.9178179+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT10M18.1105005S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-27T01:12:37.2139565+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.031967S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\stdafx.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-17T16:47:00.071008+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M25.2601835S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\CustomAlgorithmTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-17T16:45:02.8807849+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51.6779968S" EditActiveTime="PT12.6951771S">
+      <ModifiedDate>2019-02-17T16:44:35.9857293+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-17T16:44:01.4341531+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT42.1604758S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\Algorithm.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-17T16:43:19.2716556+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.9557523S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessThresholdTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T18:23:02.204504+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M46.9863902S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-16T18:18:39.3275879+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.455216S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessStagnationTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>c:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\FitnessStagnationTermination.cpp</ProjectName>
+      <CreatedDate>2019-02-16T18:06:29.0848391+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.9376984S" EditActiveTime="PT35.8110455S">
+      <ModifiedDate>2019-02-16T18:30:07.5575926+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\Algorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T18:02:55.3842332+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28.5769737S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\TeacherSessionTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\AutomaticScheduling.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:39:03.889073+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M8.1509284S" EditActiveTime="PT21M20.049372S">
+      <ModifiedDate>2019-02-16T18:33:47.2177111+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\CustomAlgorithmTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTerimnation.UnitTest\AlgorithmTerimnation.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:38:52.7661906+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.860287S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\TimeLimitTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:32:36.9178179+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.3714723S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\OrTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:32:36.5453484+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M36.3014724S" EditActiveTime="PT5M57.5531559S">
+      <ModifiedDate>2019-02-16T18:27:08.1796571+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:29:46.6682852+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.4664984S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\AndTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:27:20.4649481+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT32.3045063S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\stdafx.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:26:48.1554528+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT45.4427795S" EditActiveTime="PT35.5670643S">
+      <ModifiedDate>2019-02-16T18:02:06.5611643+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination\IterationNumberTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:26:20.7583035+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M23.0921448S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\Algorithm\Algorithm.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AlgorithmTermination\AlgorithmTermination.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:25:08.2976025+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M43.6966611S" EditActiveTime="PT28.2653127S">
+      <ModifiedDate>2019-02-16T17:23:00.772148+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\CustomAlgorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:22:27.4867913+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M23.9865337S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\CourseSessionTest.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling.UnitTest\AutomaticScheduling.UnitTest.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:41.4070634+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.8368296S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\stdafx.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:32.4527058+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6052029S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\stdafx.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:20:29.8464814+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.4675482S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\FitnessStagnationTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:22.8365756+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT57.9670404S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\AndTermination.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:18.3264117+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.7893329S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AlgorithmTermination\AlgorithmTermination.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:19:15.7783763+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT21.3797882S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:04:38.3181781+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8396344S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\targetver.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T17:04:37.5950765+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M18.6882511S" EditActiveTime="PT5M23.0419741S">
+      <ModifiedDate>2019-02-16T17:15:00.1874739+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Algorithm.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:58:05.7919443+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.0746593S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Configuration.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:45.7159823+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.7922054S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Configuration.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:35.922813+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT26.1773592S" EditActiveTime="PT31.8325177S">
+      <ModifiedDate>2019-02-16T17:15:45.1755293+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\AlgorithmState.h</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:27.2191145+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M9.8183288S" EditActiveTime="PT5M45.1556728S">
+      <ModifiedDate>2019-02-16T17:16:03.4315201+02:00</ModifiedDate>
+      <ModifiedBy>jhonny</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\Algorithm\Algorithm.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:12.6254356+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.6646847S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\jsoncpp.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\jhonny\Documents\All\Programming\C++\AlgorithmTermination\AutomaticScheduling\AutomaticScheduling.vcxproj</ProjectName>
+      <CreatedDate>2019-02-16T16:57:10.3885178+02:00</CreatedDate>
+      <ViewedBy>jhonny</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
